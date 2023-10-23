@@ -72,9 +72,10 @@ JSON
 To delete a category, send a DELETE request to the `/categories/:id` endpoint.
 
 
-## Link to video demonstration
+## Links
 
-https://drive.google.com/file/d/156EYo00OxuzpmxYP80dqOd8K1xqgEssL/view  
+Video demonstration: https://drive.google.com/file/d/156EYo00OxuzpmxYP80dqOd8K1xqgEssL/view  
+GitHub repository: https://github.com/Flagg217/E-Commerce-ORM.git  
 
 
 ## Conclusion
